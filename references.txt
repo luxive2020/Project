@@ -1,0 +1,26 @@
+https://books.google.com.ng/books?hl=en&lr=&id=-eZDDwAAQBAJ&oi=fnd&pg=PP1&dq=Desktop+folder+application+development&ots=XvraVJo-4u&sig=OTr0H1V2gFbBa1TnvoQFyYTJYwY&redir_esc=y#v=onepage&q=Desktop%20folder%20application%20development&f=false
+
+
+
+https://www.researchgate.net/publication/378905018_A_chaotic_based_image_encryption_scheme_using_elliptic_curve_cryptography_and_genetic_algorithm    =>Art on security
+
+
+https://www.researchgate.net/publication/363913005_Hybridized_Cryptography_and_Cloud_Folder_Model_CFM_for_Secure_Cloud-Based_Storage
+
+https://www.researchgate.net/publication/362220935_Secure_File_Storage_on_Cloud_Using_Hybrid_Cryptography  => File storage on CLoud
+
+https://www.researchgate.net/publication/369907923_The_Design_and_Implementation_of_a_Secure_File_Storage_on_the_Cloud_using_Hybrid_Cryptography =>> Secure file storage on cloud
+
+
+https://www.researchgate.net/publication/370135472_File_Encryption_and_Decryption_Software
+
+
+https://www.researchgate.net/publication/372794721_Disk_File_and_Database_Encryption => Disk, FIle and Database Encrytpion
+
+
+
+https://www.researchgate.net/publication/380938579_Secured_file_upload_using_NTRU_encryption_techniques
+
+https://www.researchgate.net/search.Search.html?query=Secure+file+system+desktop&type=publication =>Implementation Secure Password Manager
+
+

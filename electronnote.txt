@@ -1,0 +1,3 @@
+main.js == contains backend work
+renderer folder == contains frontend work
+npx elctronmon . (auto updates the browser window)

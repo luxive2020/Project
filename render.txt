@@ -1,0 +1,6 @@
+solve require not define issue when  writing the code: const {ipcRenderer } = require('electron') in renderer.js file
+
+ webPreferences: {
+      nodeIntegration: true, // Enable node integration
+      contextIsolation: false, // Disable context isolation if using nodeIntegration
+    }
